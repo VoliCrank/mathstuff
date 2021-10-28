@@ -1,0 +1,26 @@
+
+CasualInference.pdf
+Hartshorne.pdf
+hidden.pdf
+montufar15a.pdf
+RA/.DS_Store
+RA/Guido Montufar.mp4
+RA/LearningLatent.pdf
+RA/MarkovTotalPositivity.pdf
+RA/Mixture of Products- Montufar.pdf
+RA/NonnegativeTensorIntro.pdf
+RA/TotalPositivity.pdf
+tensors/.DS_Store
+tensors/.idea/.name
+tensors/.idea/inspectionProfiles/profiles_settings.xml
+tensors/.idea/inspectionProfiles/Project_Default.xml
+tensors/.idea/misc.xml
+tensors/.idea/modules.xml
+tensors/.idea/other.xml
+tensors/.idea/tensors.iml
+tensors/__pycache__/decomp.cpython-39.pyc
+tensors/decomp.py
+tensors/mtp2.py
+tensors/play2.py
+tensors/playground.py
+tensors/test.py
